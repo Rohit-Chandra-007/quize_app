@@ -1,6 +1,6 @@
 # quize_app
 
-A new Flutter project.
+Quize App which Increase General Knowledge
 
 ## Getting Started
 
